@@ -17,7 +17,7 @@ Basic HTML and CSS QR code component
 
 ### Screenshot
 
-![./Screenshot 2024-09-23.jpg](Screenshot 2024-09-23.jpg)
+![Screenshot 2024-09-23.jpg](https://github.com/tomwinskell/qr-code-component-main/blob/main/Screenshot%202024-09-23.png)
 
 ### Links
 
